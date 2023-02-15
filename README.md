@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kacpix123k
 - 👀 I’m interested in game development, gaming and cinematography;
-- 🌱 I’m currently learning java amd c++;
+- 🌱 I’m currently learning java, python and .net
 
 
 <!---
